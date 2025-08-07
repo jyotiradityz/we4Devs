@@ -27,7 +27,7 @@
 
 - **Problem Statement:** Develop a security system website that enables users to combat the spread of fraudulent messages across various communication channels 📧
 
-- **Whole Documentation:** <a href="https://docs.google.com/document/d/1pcAZzuoEXgjS8k2VcAFIBRm0pIsiB-0j/edit">Idea Submission	</a> 📝
+- **Whole Documentation:** <a href="https://docs.google.com/document/d/1sOGwWgu2BIye7uXmRVRUxSaAy67H6-FS7QJHmM4xeXk/edit?usp=drivesdk">Idea Submission	</a> 📝
   
 - **UI:** <a href="https://www.figma.com/file/FQkREiISbToyNUTYKyh8WJ/Fraud-Detection?type=design&node-id=0%3A1&mode=design&t=upqrdJmELEcgcdtl-1">Figma File</a> 🎨
   
